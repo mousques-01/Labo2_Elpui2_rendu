@@ -1,6 +1,6 @@
 # Laboratoire 2 — Redresseur Actif Triphasé (AFE) & Simulation HIL
 
-Ce dépôt contient l'ensemble des fichiers de simulation PLECS, des schémas temps réel (RT-Box / TI ControlCARD) ainsi que l'analyse complète réalisée dans le cadre du **Laboratoire 2 d'Électronique de Puissance II**.
+Ce dépôt contient l'ensemble des fichiers de simulation PLECS, des schémas temps réel (RT-Box / TI ControlCARD) ainsi que l'analyse complète réalisée dans le cadre du **Laboratoire 2 d'Électronique de Puissance II**. (Nous tenons à mentionner que nous nous sommes servis de Google IA afin de comprendre certaines de nos erreurs lors de nos simulations PLECS.)
 
 ## Où trouver le rapport ?
 * **Le rapport principal attendu est le fichier [`PI.ipynb`](./PI.ipynb).**
