@@ -18,7 +18,7 @@ Ce rapport a été rédigé de manière détaillée et pédagogique afin d'être
 * `PI.ipynb` : **Rapport complet** (analyses théoriques, relevés et graphiques commentés).
 * `*.plecs` : Modèles de simulation *offline* et fichiers temps réel *Hardware-in-the-Loop* (RT-Box & TI F2837x).
 * `*.png` : Schémas d'architecture, détails des sous-systèmes de commande et spectres FFT.
-Certaines photos des PLECS dans le rapport n'existent plus dans les PLECS finaux car c'était des modifications brèves. Cependant la démarche pour reproduire ces parties des fichiers a été bien entendu expliqué en détail dans le `Pi.ipynb`.
+Certaines photos des PLECS dans le rapport n'existent plus dans les PLECS finaux car c'était des modifications brèves. Cependant la démarche pour reproduire ces parties des fichiers a été bien entendu expliqué en détail dans le `PI.ipynb`.
 
 ## Remerciements
 Nous tenons à remercier M.Siemaszko et M.Sefaranga pour nous avoir aidé à débuguer et mieux comprendre certains résultats de ce labo.
